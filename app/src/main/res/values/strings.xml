@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Send Messages</string>
+
+    <string name="sendBtn">Send Messages!</string>
+    <string name="secondHint"> Enter Another Message</string>
+    <string name="firstHint"> Enter a Message</string>
+    <string name="firstMsgOutput">First Message Output:</string>
+    <string name="secondMsgOutput">Second Message Output:</string>
+    <string name="back">Return</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second_screen">SecondScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
